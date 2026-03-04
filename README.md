@@ -69,5 +69,6 @@ A seguir também deixo o print do dashboard do Wazuh após o ataque:
 
 ![log3](./img/dashboard.png)
 
-5. Conclusão
+## 5. Conclusão
+
 Este projeto demonstrou na prática o ciclo de vida de um incidente: desde a vulnerabilidade exposta (SSH) até a detecção e análise técnica via SIEM. O laboratório reforçou conceitos de redes, Linux, segurança ofensiva e monitoramento defensivo.
